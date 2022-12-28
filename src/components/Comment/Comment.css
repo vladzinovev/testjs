@@ -1,0 +1,21 @@
+.comments{
+    padding: 10px;
+    margin-top: 20px;
+    border:1px solid rgba(25, 118, 210, 0.5);
+}
+
+.comments .comment{
+    margin-top: 10px;
+}
+.comments .comment .flex{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.loading{
+    margin-top: 20px;
+    font-size: 1.175rem;
+    border:1px solid rgba(25, 118, 210, 0.5);
+    height: 50px;
+}
